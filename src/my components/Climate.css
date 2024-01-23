@@ -1,0 +1,124 @@
+.body {
+    /* font-family: 'Arial', sans-serif; */
+    font-family: 'Times New Roman', Times, serif;
+    /* margin: 0;
+    padding: 0;
+    box-sizing: border-box; */
+    background: linear-gradient(to right, #89f7fe, #66a6ff);
+    color: #333;
+  }
+  #take-action li{
+    font-size: 18px;
+  }
+  #get-involved li{
+    font-size: 18px;
+    color: black;
+  }
+
+
+  #why{
+    background-image: url("https://t4.ftcdn.net/jpg/06/21/10/97/360_F_621109772_2YksrlcILyNq4vK4gOOleq26BBrkULbl.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #take-action{
+    background-image: url("https://images.squarespace-cdn.com/content/v1/5a74dd7e268b96a0a46ff66e/1556101698642-J429MYLW2G1HLXKML9WI/kind-words-high-birds-loyton-sporting.jpg?format=1500w");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+  }
+
+  .navbar {
+    /* background-color: #4CAF50; */
+    /* transition: background-color 10s ease; */
+    /* opacity: 0.5; */
+  }
+  nav{
+    /* background-color: rgb(203, 231, 224); */
+    background: linear-gradient(to right, #89f7fe, #66a6ff);
+   
+  }
+
+  /* .navbar a {
+    color: black !important;
+  } */
+
+  .hero {
+    background: url('https://wallpapers.com/images/hd/dark-nature-s3in5w7pgukadq51.jpg') center/cover no-repeat;
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+    font-weight: bold;
+  }
+
+  .section {
+    padding: 60px 0;
+    background-color: rgb(255, 255, 255);
+    /* border-radius: 10px; */
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+  }
+
+  .section h2 {
+    color: #0381fe;
+    font-weight: 1000;
+  }
+
+  .section p {
+    color: black;
+    font-size: 20px;
+  }
+
+  .btn-success {
+    /* background-color: #4CAF50; */
+    background: linear-gradient(to right, #89f7fe, #66a6ff);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+  .btn-success:hover {
+    background-color: #45a049;
+  }
+
+
+
+
+  .footer {
+    /* background-color: #333; */
+    color:black;
+    text-align: center;
+    padding: 30px 0;
+  }
+
+  .footer p {
+    margin-bottom: 20px;
+  }
+
+  .social-icons {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+  }
+
+  .social-icons li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+
+  .social-icons a {
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+
+  .social-icons a:hover {
+    color: #9c1ee4;
+  }
